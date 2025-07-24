@@ -1,9 +1,8 @@
-# DGCMIA
-Dual-Granularity Cross-Modal Identity Association for Weakly-Supervised Text-to-Person Image Matching (ACMMM2025))
+# Dual-Granularity Cross-Modal Identity Association for Weakly-Supervised Text-to-Person Image Matching 
 
 ## Pipeline
 
-![7](C:\Users\yongl\Desktop\CodeRepository\DGCMIA\7.png)
+![7](7.png)
 
 ## Usage
 
